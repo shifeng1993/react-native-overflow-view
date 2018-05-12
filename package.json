@@ -1,6 +1,6 @@
 {
   "name": "react-native-overflow-view",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "react-native的view组件",
   "main": "src/index.js",
   "scripts": {

@@ -56,5 +56,6 @@ export default class Home extends Component {
 ```
 
 ## 历史版本特性
+#### 1.0.0  正式版本发布
 #### 0.1.0  测试版本
 
