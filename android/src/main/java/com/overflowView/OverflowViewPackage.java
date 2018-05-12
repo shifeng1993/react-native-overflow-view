@@ -10,21 +10,14 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * Created by boris on 13.02.18.
- */
-
-public class OverflowViewflowPackage implements ReactPackage {
-
-     @Override
+public class OverflowViewPackage implements ReactPackage {
+    @Override
     public List<NativeModule> createNativeModules(ReactApplicationContext reactContext) {
         return Collections.emptyList();
     }
 
-     @Override
+    @Override
     public List<ViewManager> createViewManagers(ReactApplicationContext reactContext) {
-        return Arrays.<ViewManager>asList(
-                new OverflowViewManager()
-        );
+        return Arrays.<ViewManager>asList(new OverflowViewManager());
     }
 }
