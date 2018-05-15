@@ -1,4 +1,4 @@
-# react-native-secharts
+# react-native-overflow-view
 [![NPM Version](https://img.shields.io/npm/v/react-native-overflow-view.svg?style=flat)](https://www.npmjs.com/package/react-native-overflow-view)
   [![License](http://img.shields.io/npm/l/react-native-overflow-view.svg?style=flat)](https://github.com/shifeng1993/react-native-overflow-view/blob/master/LICENSE)
   
@@ -56,6 +56,7 @@ export default class Home extends Component {
 ```
 
 ## 历史版本特性
+#### 1.0.1  文档bug修复
 #### 1.0.0  正式版本发布
 #### 0.1.0  测试版本
 
